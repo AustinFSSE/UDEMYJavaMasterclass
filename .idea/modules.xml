@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/AbstractionChallenge.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/AbstractionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" filepath="$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" filepath="$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesLesson/InterfacesChallenge/InterfacesChallenge.iml" filepath="$PROJECT_DIR$/InterfacesLesson/InterfacesChallenge/InterfacesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesLesson/InterfacesLesson.iml" filepath="$PROJECT_DIR$/InterfacesLesson/InterfacesLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" filepath="$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" filepath="$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" />
+    </modules>
+  </component>
+</project>

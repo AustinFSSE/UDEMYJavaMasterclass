@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" filepath="$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" />
+    </modules>
+  </component>
+</project>
