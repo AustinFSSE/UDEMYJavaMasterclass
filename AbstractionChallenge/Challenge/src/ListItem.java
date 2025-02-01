@@ -7,11 +7,11 @@ public abstract class ListItem {
     }
 
     // These methods cannot be private in an abstract class
-    public abstract ListItem next();
-    public abstract void setNext(ListItem next);
-    public abstract ListItem previous();
-    public abstract void setPrevious(ListItem previous);
-    public abstract int compareTo(ListItem listItem); // Fixed return type
+    abstract ListItem next();
+    abstract ListItem setNext(ListItem next);
+    abstract ListItem previous();
+    abstract ListItem setPrevious(ListItem previous);
+    abstract int compareTo(ListItem listItem); // Fixed return type
 
     public Object getValue() {
         return value;

@@ -1,30 +1,37 @@
 public class Node extends ListItem {
+
     public Node(Object value) {
         super(value);
     }
 
     @Override
     public ListItem next() {
-        return rightLink;
+        return this.rightLink;
     }
 
     @Override
-    public void setNext(ListItem next) {
+    ListItem setNext(ListItem next) {
         this.rightLink = next;
+        return this.rightLink;
     }
 
     @Override
-    public ListItem previous() {
-        return leftLink;
+    ListItem previous() {
+        return this.rightLink;
     }
 
     @Override
-    public void setPrevious(ListItem previous) {
+    ListItem setPrevious(ListItem previous) {
         this.leftLink = previous;
+        return this.leftLink;
     }
 
     @Override
     public int compareTo(ListItem listItem) {
-        return ((Integer)this.getValue() - (Integer)listItem.getValue());
+        if (listItem != null) {
+            return ((String) super.getValue()).compareTo((String) listItem.getValue());
+        } else {
+            return -1;
+        }
     }
 }
