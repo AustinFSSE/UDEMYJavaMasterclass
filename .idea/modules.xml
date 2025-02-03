@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics Challenge/Generics Challenge.iml" filepath="$PROJECT_DIR$/Generics/Generics Challenge/Generics Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" filepath="$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" />
       <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface Challenge/Interface Challenge.iml" filepath="$PROJECT_DIR$/Interface Challenge/Interface Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface Challenge/InterfaceCodingExercise/InterfaceCodingExercise.iml" filepath="$PROJECT_DIR$/Interface Challenge/InterfaceCodingExercise/InterfaceCodingExercise.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
