@@ -6,6 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" filepath="$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/Challenge/Challenge.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/Challenge/Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeFive/ChallengeFive.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeFive/ChallengeFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeFour/ChallengeFour.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeFour/ChallengeFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeOne/ChallengeOne.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeOne/ChallengeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" filepath="$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
@@ -16,8 +21,12 @@
       <module fileurl="file://$PROJECT_DIR$/Interface Challenge/InterfaceCodingExercise/InterfaceCodingExercise.iml" filepath="$PROJECT_DIR$/Interface Challenge/InterfaceCodingExercise/InterfaceCodingExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacesLesson/InterfacesChallenge/InterfacesChallenge.iml" filepath="$PROJECT_DIR$/InterfacesLesson/InterfacesChallenge/InterfacesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacesLesson/InterfacesLesson.iml" filepath="$PROJECT_DIR$/InterfacesLesson/InterfacesLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/LambdaChallenge.iml" filepath="$PROJECT_DIR$/LambdaChallenge/LambdaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" filepath="$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" filepath="$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalandAnonymousChallenge/LocalandAnonymousChallenge.iml" filepath="$PROJECT_DIR$/LocalandAnonymousChallenge/LocalandAnonymousChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />

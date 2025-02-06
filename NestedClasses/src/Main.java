@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class Main {
@@ -14,14 +12,62 @@ public class Main {
                 new Employee(10050, "Jim", 2018)
         ));
 
-//        var comparator = new EmployeeComparator<>();
-//        employees.sort(comparator);
-
         employees.sort(new Employee.EmployeeComparator<>("yearStarted").reversed());
 
         for (Employee employee : employees) {
             System.out.println(employee);
         }
 
+        System.out.println("Store Members");
+        List<StoreEmployee> storeEmployees = new ArrayList<>(List.of(
+           new StoreEmployee(10015, "Meg", 2019, "Target"),
+           new StoreEmployee(10105, "Joe", 2021, "Walmart"),
+            new StoreEmployee(10105, "Joe", 2020, "Walmart"),
+           new StoreEmployee(10215, "Tom", 2020, "Macys")
+        ));
+
+        var comparator = new StoreEmployee().new StoreComparator<>();
+        storeEmployees.sort(comparator);
+        for (StoreEmployee storeEmployee : storeEmployees) {
+            System.out.println(storeEmployee);
+        }
+
+        System.out.println("Pig Latin Names");
+        addPigLatinName(storeEmployees);
+
+    }
+    public static void addPigLatinName(List<? extends StoreEmployee> list) {
+        String lastName = "Piggy";
+
+        class DecoratedEmployee extends StoreEmployee implements Comparable<DecoratedEmployee> {
+            private String pigLatinName;
+            private Employee originalInstance;
+
+            public DecoratedEmployee(String pigLatinName, Employee originalInstance) {
+                this.pigLatinName = pigLatinName + " " + lastName;
+                this.originalInstance = originalInstance;
+            }
+
+            @Override
+            public String toString() {
+                return originalInstance.toString() + " " + pigLatinName;
+            }
+
+            @Override
+            public int compareTo(DecoratedEmployee o) {
+                return this.pigLatinName.compareTo(o.pigLatinName);
+            }
+        }
+
+        List<DecoratedEmployee> newList = new ArrayList<>(list.size());
+        for (var employee : list) {
+            String name = employee.getName();
+            String pigLatin = name.substring(1) + name.charAt(0) + "ay";
+            newList.add(new DecoratedEmployee(pigLatin, employee));
+        }
+        newList.sort(null);
+        for (var dEmployee : newList) {
+            System.out.println(dEmployee.originalInstance.getName() + " " + dEmployee.pigLatinName);
+        }
     }
 }
