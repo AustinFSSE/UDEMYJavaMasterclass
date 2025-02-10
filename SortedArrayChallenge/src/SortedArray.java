@@ -1,12 +1,13 @@
+import java.util.Random;
 import java.util.Scanner;
 
 public class SortedArray {
     // write code here
     public static int[] getIntegers(int len) {
-        Scanner sc = new Scanner(System.in);
+
         int[] arr = new int[len];
         for (int i = 0; i < len; i++) {
-            arr[i] = sc.nextInt();
+            arr[i] = new Random().nextInt(100);
         }
         return arr;
     }
@@ -22,7 +23,7 @@ public class SortedArray {
         while (flag) {
             flag = false;
             for (int i = 0; i < arr.length - 1; i++) {
-                if (arr[i] < arr[i + 1]) {
+                if (arr[i] > arr[i + 1]) {
                     int temp = arr[i];
                     arr[i] = arr[i + 1];
                     arr[i + 1] = temp;

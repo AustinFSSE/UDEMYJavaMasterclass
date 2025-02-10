@@ -35,6 +35,7 @@ public class Main {
         });
 
         System.out.println("-".repeat(20));
+
         // Lambda Expression
         int result = calculator((a, b) -> a + b, 5, 2);
 
