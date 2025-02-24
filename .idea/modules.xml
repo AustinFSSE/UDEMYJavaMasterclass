@@ -44,11 +44,13 @@
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" filepath="$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetChallenge/SetChallenge.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetChallenge/SetChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" filepath="$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" filepath="$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" />
