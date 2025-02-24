@@ -1,6 +1,5 @@
 package dev.lpa;
 
-import dev.alm.BankAccount;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +13,7 @@ public class BankCustomer {
     private int id;
     private final List <BankAccount> accounts = new ArrayList <BankAccount>();
 
-    public BankCustomer(String name, double checkingAmount, double savingsAmount) {
+    BankCustomer(String name, double checkingAmount, double savingsAmount) {
         this.name = name;
         this.id = customerId++;
         accounts.add(new BankAccount(BankAccount.AccountType.CHECKING, checkingAmount));
@@ -26,9 +25,22 @@ public class BankCustomer {
     }
 
     public List <BankAccount> getAccounts() {
-        return new ArrayList <>(accounts);
+        return List.copyOf(accounts);
     }
 
+    public BankAccount getAccountType(BankAccount.AccountType type) {
+        for ( var account : accounts) {
+            if (account.getType() == type) {
+                return account;
+            }
+        }
+        return null;
+    }
+
+    public String getCustomerId() {
+
+        return String.valueOf(customerId);
+    }
     @Override
     public String toString() {
         String [] accountStrings = new String[accounts.size()];

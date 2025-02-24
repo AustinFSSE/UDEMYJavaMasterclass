@@ -12,12 +12,15 @@
       <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" filepath="$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors Project/Constructors Project.iml" filepath="$PROJECT_DIR$/Constructors Project/Constructors Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" filepath="$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" filepath="$PROJECT_DIR$/EnumChallenges/EnumChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/EnumCollections/EnumCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" filepath="$PROJECT_DIR$/AbstractionChallenge/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExceptions/FileExceptions.iml" filepath="$PROJECT_DIR$/FileExceptions/FileExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalExplored/FinalExplored.iml" filepath="$PROJECT_DIR$/FinalExplored/FinalExplored.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameConsoleProject/GameConsoleProject.iml" filepath="$PROJECT_DIR$/GameConsoleProject/GameConsoleProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics Challenge/Generics Challenge.iml" filepath="$PROJECT_DIR$/Generics/Generics Challenge/Generics Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" filepath="$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" />
@@ -36,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" filepath="$PROJECT_DIR$/LinkedLIstFeatures/LinkedLIstFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LocalandAnonymousChallenge/LocalandAnonymousChallenge.iml" filepath="$PROJECT_DIR$/LocalandAnonymousChallenge/LocalandAnonymousChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" filepath="$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodReferencingChallenges/MethodReferencingChallenges.iml" filepath="$PROJECT_DIR$/MethodReferencingChallenges/MethodReferencingChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
@@ -44,9 +48,11 @@
       <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetChallenge/SetChallenge.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetChallenge/SetChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" filepath="$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" filepath="$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WritingFiles/WritingFiles.iml" filepath="$PROJECT_DIR$/WritingFiles/WritingFiles.iml" />
     </modules>
   </component>
 </project>

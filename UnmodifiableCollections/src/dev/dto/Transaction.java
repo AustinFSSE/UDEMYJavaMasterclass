@@ -5,7 +5,7 @@ public class Transaction {
     private long transactionId;
     private double transactionAmount;
 
-    public Transaction(int routingNumber, double transactionAmount, long transactionId, int customerId) {
+    public Transaction(int routingNumber, long transactionId, int customerId, double transactionAmount) {
         this.routingNumber = routingNumber;
         this.transactionAmount = transactionAmount;
         this.transactionId = transactionId;
@@ -42,5 +42,11 @@ public class Transaction {
 
     public void setCustomerId(int customerId) {
         this.customerId = customerId;
+    }
+
+    @Override
+    public String toString() {
+        return "%015d:%020d:%015d:%012.2f".formatted(routingNumber, customerId,
+                transactionId, transactionAmount);
     }
 }
