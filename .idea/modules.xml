@@ -49,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" filepath="$PROJECT_DIR$/SetsandMaps/SetsandMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" filepath="$PROJECT_DIR$/SortedArrayChallenge/SortedArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" filepath="$PROJECT_DIR$/.idea/UDEMYJavaMasterclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" filepath="$PROJECT_DIR$/UnmodifiableCollections/UnmodifiableCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" filepath="$PROJECT_DIR$/VarArgsInJava/VarArgsInJava.iml" />
