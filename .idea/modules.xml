@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeOne/ChallengeOne.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeOne/ChallengeOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeThree/ChallengeThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/LambdaChallenge/ChallengeTwo/ChallengeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientServer/ClientServer.iml" filepath="$PROJECT_DIR$/ClientServer/ClientServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" filepath="$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructors Project/Constructors Project.iml" filepath="$PROJECT_DIR$/Constructors Project/Constructors Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" filepath="$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" />
@@ -43,6 +44,7 @@
       <module fileurl="file://$PROJECT_DIR$/MethodReferencingChallenges/MethodReferencingChallenges.iml" filepath="$PROJECT_DIR$/MethodReferencingChallenges/MethodReferencingChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MobilePhone/MobilePhone.iml" filepath="$PROJECT_DIR$/MobilePhone/MobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySQL/MySQL.iml" filepath="$PROJECT_DIR$/MySQL/MySQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" filepath="$PROJECT_DIR$/ParallelProcesses/ParallelProcesses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
